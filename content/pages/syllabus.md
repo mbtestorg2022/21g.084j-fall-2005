@@ -42,16 +42,93 @@ Please note that we will have one formal class debate, one individual class pres
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 10% |
-| Class Debate | 10% |
-| Individual Presentation on Economic Development | 7.5% |
-| The "Extemporaneous" Presentation on Mexican Development | 7.5% |
-| Two Group Presentations (7.5% each) | 15% |
-| Three Papers (10% each) | 30% |
-| Map Test | 5% |
-| Final Exam | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Debate
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual Presentation on Economic Development
+{{< tdclose >}}
+{{< tdopen >}}
+7.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The "Extemporaneous" Presentation on Mexican Development
+{{< tdclose >}}
+{{< tdopen >}}
+7.5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Group Presentations (7.5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Papers (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Map Test
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 General class participation will count for 10% of your grade. The class debate will count for 10%, the individual presentation on economic development, the "extemporaneous" presentation on Mexican development, and the two group presentations will each count 7.5%. The three papers will each count for 10% (with rewritten papers receiving the average of their first and their final grades), the map test for 5%, and the final exam will count for 15%. Thus oral and written contributions will be weighed equally. Within the limits imposed by equity, grading will attempt to take into account the fact that some students (seniors, those who have lived for a long time in Latin America, political science majors, etc.) have had far more exposure to the material covered in the class.
 
